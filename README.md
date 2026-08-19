@@ -159,7 +159,7 @@ The main cell-type comparisons included:
 
 Differential expression was also performed between COVID-19 and healthy samples.
 
-The analysis includes volcano-plot and top-DEG visualizations.
+The analysis includes volcano-plot and top-DEG visualizations, together with gene-level results for the COVID-19 versus healthy comparison.
 
 ## Top Differentially Expressed Genes
 
