@@ -138,6 +138,16 @@ The identified cell populations included:
 - Granulocyte-monocyte progenitors (GMP)
 - Erythroblasts
 
+## Cell-Type Proportions
+
+Cell-type proportions were compared across the four samples.
+
+HIP043 was dominated by NK cells, representing approximately 48% of the annotated cells.
+
+The COVID-19 samples showed different cellular compositions. `covid_556` and `covid_557` had relatively large CLP populations, whereas `covid_558` was dominated by plasma cells, representing approximately 56% of the annotated population.
+
+Smaller populations of T cells, B cells, erythroblasts, and pDCs were also observed.
+
 ## Differential Expression Analysis
 
 Differential expression analysis was performed between selected immune-cell populations.
