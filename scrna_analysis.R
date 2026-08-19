@@ -1,12 +1,8 @@
 # ============================================================
 # Human COVID-19 Immune scRNA-seq Analysis
-# Single-cell transcriptomic analysis of immune-cell populations
-# from COVID-19 and healthy samples
-#
-# Author: Sakshi Parate
-# M.Sc. Bioinformatics, Saarland University
+# Single-cell transcriptomic analysis of immune-cell populations from COVID-19 and healthy samples
+# Author: Sakshi Parate - M.Sc. Bioinformatics, Saarland University
 # ============================================================
-
 
 # ============================================================
 # 1. Load Packages
